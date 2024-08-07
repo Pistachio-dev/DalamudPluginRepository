@@ -7,12 +7,12 @@
       "Tags": [
         "macro"
       ],
-      "InternalName": "Artisan",
+      "InternalName": "MacroLoop",
       "RepoUrl": "https://github.com/Pistachio-dev/macroloop",
       "DownloadCount": 420,
       "LastUpdate": 1722963732787,
-      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
-      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+      "DownloadLinkInstall": "https://github.com/Pistachio-dev/macroloop/releases/download/release/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/macroloop/releases/download/release/latest.zip",
       "AssemblyVersion": "0.1.0.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": "10",
