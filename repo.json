@@ -13,6 +13,7 @@
       "LastUpdate": 1722963732787,
       "DownloadLinkInstall": "https://github.com/Pistachio-dev/macroloop/releases/download/release/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Pistachio-dev/macroloop/releases/download/release/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Pistachio-dev/macroloop/releases/download/release/latest.zip",
       "AssemblyVersion": "0.1.0.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": "10",
