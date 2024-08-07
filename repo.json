@@ -1,0 +1,23 @@
+[
+    {
+      "Author": "Pistachio Herald, Caraxi",
+      "Name": "Macro Loop",
+      "Punchline": "Allows macros to be looped.",
+      "Description": "Use /macroloop at the end of a macro to make it loop",
+      "Tags": [
+        "macro"
+      ],
+      "InternalName": "Artisan",
+      "RepoUrl": "https://github.com/Pistachio-dev/macroloop",
+      "DownloadCount": 420,
+      "LastUpdate": 1722963732787,
+      "DownloadLinkInstall": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+      "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/6/Artisan/versions/latest.zip",
+      "AssemblyVersion": "0.1.0.0",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": "10",
+      "Changelog": "- First release.",
+      "TestingAssemblyVersion": "0.1.0.0",
+      "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/macroloop/main/icon.png"
+    }
+  ]
