@@ -36,7 +36,7 @@
       "LastUpdate": 1724268227,
       "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix/latest.zip",
-      "AssemblyVersion": "0.1.0.0",
+      "AssemblyVersion": "0.1.0.1",
       "ApplicableVersion": "any",
       "DalamudApiLevel": "10",
       "Changelog": "Fixed /tells being sent too fast. Fixed the 'no longer KO' messages being written on 0 funds non-KO players.",
