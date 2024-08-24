@@ -33,13 +33,13 @@
       "InternalName": "HoldemHelper",
       "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
       "DownloadCount": 420,
-      "LastUpdate": 1724455716,
-      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.1.1.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.1.1.0/latest.zip",
-      "AssemblyVersion": "0.1.1.0",
+      "LastUpdate": 1724522052,
+      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.1.1.1/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.1.1.1/latest.zip",
+      "AssemblyVersion": "0.1.1.1",
       "ApplicableVersion": "any",
       "DalamudApiLevel": "10",
-      "Changelog": "Added more options and improved chat readability.",
+      "Changelog": "Fixes on printed text, and players can now be marked as AFK.",
       "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     }
   ]
