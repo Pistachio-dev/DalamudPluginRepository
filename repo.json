@@ -33,13 +33,13 @@
       "InternalName": "HoldemHelper",
       "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
       "DownloadCount": 420,
-      "LastUpdate": 1724270176,
-      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.1.0.2/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.1.0.2/latest.zip",
-      "AssemblyVersion": "0.1.0.2",
+      "LastUpdate": 1724455716,
+      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.1.1.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.1.1.0/latest.zip",
+      "AssemblyVersion": "0.1.1.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": "10",
-      "Changelog": "Fixed /tells being sent too fast. Fixed the 'no longer KO' messages being written on 0 funds non-KO players.",
+      "Changelog": "Added more options and improved chat readability.",
       "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     }
   ]
