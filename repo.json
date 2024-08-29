@@ -33,13 +33,13 @@
       "InternalName": "HoldemHelper",
       "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
       "DownloadCount": 420,
-      "LastUpdate": 1724942824,
-      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.2.0.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.2.0.0/latest.zip",
-      "AssemblyVersion": "0.2.0.0",
+      "LastUpdate": 1724962806,
+      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.2.0.1/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.2.0.1/latest.zip",
+      "AssemblyVersion": "0.2.0.1",
       "ApplicableVersion": "any",
       "DalamudApiLevel": "10",
-      "Changelog": "Fixes on printed text, and players can now be marked as AFK.",
+      "Changelog": "Fixed folded players being considered during tie evaluation.",
       "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     }
   ]
