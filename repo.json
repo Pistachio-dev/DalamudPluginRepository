@@ -33,13 +33,18 @@
       "InternalName": "HoldemHelper",
       "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
       "DownloadCount": 420,
-      "LastUpdate": 1724962806,
-      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.2.0.1/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.2.0.1/latest.zip",
-      "AssemblyVersion": "0.2.0.1",
+      "LastUpdate": 1725110251,
+      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.3.0.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.3.0.0/latest.zip",
+      "AssemblyVersion": "0.3.0.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": "10",
-      "Changelog": "Fixed folded players being considered during tie evaluation.",
+      "Changelog": "- Added customizable emotes for actions
+- Crupier now targets the current player
+- Cards in table can now be printed in chat with shift-click
+- New cards are now dealt after the reminder
+- Raise action is no longer available when it would make no sense (not enough funds, or nobody can call the raise)
+- Reorganized the configuration window contents for clarity",
       "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     }
   ]
