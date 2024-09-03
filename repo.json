@@ -33,13 +33,13 @@
       "InternalName": "HoldemHelper",
       "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
       "DownloadCount": 420,
-      "LastUpdate": 1725110251,
-      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.3.0.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.3.0.0/latest.zip",
-      "AssemblyVersion": "0.3.0.0",
+      "LastUpdate": 1725387722,
+      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.4.0.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.4.0.0/latest.zip",
+      "AssemblyVersion": "0.4.0.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": "10",
-      "Changelog": "- Added customizable emotes for actions\n- Crupier now targets the current player\n- Cards in table can now be printed in chat with shift-click\n- New cards are now dealt after the reminder\n- Raise action is no longer available when it would make no sense (not enough funds, or nobody can call the raise)\n- Reorganized the configuration window contents for clarity",
+      "Changelog": "-Trading automatically targets and detects the traded amount, or copies to clipboard when cashing out\n-House tax is now taken on each successful cash out trade, not in showdown\n-Raise now raises by the given amount instead of to the given amount",
       "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     }
   ]
