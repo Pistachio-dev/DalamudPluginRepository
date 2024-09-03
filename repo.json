@@ -33,13 +33,13 @@
       "InternalName": "HoldemHelper",
       "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
       "DownloadCount": 420,
-      "LastUpdate": 1725387722,
-      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.4.0.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.4.0.0/latest.zip",
-      "AssemblyVersion": "0.4.0.0",
+      "LastUpdate": 1725395003,
+      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.5.0.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.5.0.0/latest.zip",
+      "AssemblyVersion": "0.5.0.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": "10",
-      "Changelog": "-Trading automatically targets and detects the traded amount, or copies to clipboard when cashing out\n-House tax is now taken on each successful cash out trade, not in showdown\n-Raise now raises by the given amount instead of to the given amount",
+      "Changelog": "-Trading automatically targets and detects the traded amount, or copies to clipboard when cashing out\n-House tax is now taken on each successful cash out trade, not in showdown\n-Raise now raises by the given amount instead of to the given amount\n-Added overbetting prevention",
       "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     }
   ]
