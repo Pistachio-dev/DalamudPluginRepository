@@ -33,13 +33,13 @@
       "InternalName": "HoldemHelper",
       "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
       "DownloadCount": 420,
-      "LastUpdate": 1725463171,
-      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.6.0.0/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.6.0.0/latest.zip",
-      "AssemblyVersion": "0.6.0.0",
+      "LastUpdate": 1726070881,
+      "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.7.0.0/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.7.0.0/latest.zip",
+      "AssemblyVersion": "0.7.0.0",
       "ApplicableVersion": "any",
       "DalamudApiLevel": "10",
-      "Changelog": "\n-Auto targeting now does not require a party or alliance\n-Added logging of every money transfer (buy in, cash out, and hand end)\n-Added a visualization window for this logging\n-Fixed folded players being counted during ties\n-Added an option to do raises by thousands instead of single gil",
+      "Changelog": "- Greatly increased the amount of logged data\n- Logs now are saved to an SQLite database\n- Added stats for crupier and players\n- Added name filtering on transaction log\n- Added "donate funds to crupier" action and it's logging\n- Added "who's winning" functionality",
       "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     }
   ]
