@@ -47,13 +47,13 @@
         "InternalName": "HoldemHelper",
         "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
         "DownloadCount": 420,
-        "LastUpdate": 1726154474,
-        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.8.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.8.0.0/latest.zip",
-        "AssemblyVersion": "0.8.0.0",
+        "LastUpdate": 1726687774,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.8.5.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.8.5.0/latest.zip",
+        "AssemblyVersion": "0.8.5.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
-        "Changelog": "- Implemented minimum raise \n- Added Limit Texas Hold'em mode\n- Greatly increased the amount of logged data\n- Logs now are saved to an SQLite database\n- Added stats for crupier and players\n- Added name filtering on transaction log\n- Added \"donate funds to crupier\" action and it's logging\n- Added \"who's winning\" functionality",
+        "Changelog": "- Viewing stats no longer causes a hang with very long logs.",
         "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     }
 ]
