@@ -47,13 +47,13 @@
         "InternalName": "HoldemHelper",
         "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
         "DownloadCount": 420,
-        "LastUpdate": 1726687774,
-        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.8.5.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.8.5.0/latest.zip",
-        "AssemblyVersion": "0.8.5.0",
+        "LastUpdate": 1726952834,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.8.5.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.8.5.1/latest.zip",
+        "AssemblyVersion": "0.8.5.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
-        "Changelog": "- Viewing stats no longer causes a hang with very long logs.",
+        "Changelog": "- Added button to set funds as the all time balance.\n - Fixed several bugs.",
         "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     }
 ]
