@@ -55,5 +55,31 @@
         "DalamudApiLevel": "10",
         "Changelog": "- Added button to set funds as the all time balance.\n - Fixed several bugs.",
         "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "OOBlugin",
+        "Punchline": "oob oob",
+        "Description": "oob oob",
+        "Changelog": "",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.3.0",
+        "RepoUrl": "https://github.com/Pistachio-dev/OOBlugin",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/OOBlugin/releases/download/v1.1.3.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Pistachio-dev/OOBlugin/releases/download/v1.1.3.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/OOBlugin/releases/download/v1.1.3.0/latest.zip",
+        "DownloadCount": 10261,
+        "LastUpdate": "1727553935"
     }
 ]
