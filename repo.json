@@ -57,6 +57,32 @@
         "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     },
     {
+        "Author": "Pistachio Herald",
+        "Name": "ToD Howard",
+        "Punchline": "Make Truth or Dare easier and faster. It just works!",
+        "Description": "Make Truth or Dare easier and faster. Type /tod to launch. It just works!",
+        "Tags": [
+            "tod",
+            "truth",
+            "or",
+            "dare",
+            "party",
+            "chat",
+            "game"
+        ],
+        "InternalName": "TruthOrDareHelper",
+        "RepoUrl": "https://github.com/Pistachio-dev/TruthOrDareHelper",
+        "DownloadCount": 69,
+        "LastUpdate": 1727558894,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.1/latest.zip",
+        "AssemblyVersion": "0.1.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "10",
+        "Changelog": "- Initial release.",
+        "IconUrl": "https://github.com/Pistachio-dev/TruthOrDareHelper/blob/master/TruthOrDareHelper/ToDHoward.png?raw=true"
+    },
+    {
         "Author": "UnknownX",
         "Name": "OOBlugin",
         "Punchline": "oob oob",
