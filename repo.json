@@ -1,24 +1,85 @@
 [
     {
-      "Author": "Pistachio Herald, Caraxi",
-      "Name": "Macro Loop",
-      "Punchline": "Allows macros to be looped.",
-      "Description": "Use /macroloop at the end of a macro to make it loop",
-      "Tags": [
-        "macro"
-      ],
-      "InternalName": "MacroLoop",
-      "RepoUrl": "https://github.com/Pistachio-dev/macroloop",
-      "DownloadCount": 420,
-      "LastUpdate": 1722963732787,
-      "DownloadLinkInstall": "https://github.com/Pistachio-dev/macroloop/releases/download/release0.1.1/latest.zip",
-      "DownloadLinkUpdate": "https://github.com/Pistachio-dev/macroloop/releases/download/release0.1.1/latest.zip",
-      "DownloadLinkTesting": "https://github.com/Pistachio-dev/macroloop/releases/download/release0.1.1/latest.zip",
-      "AssemblyVersion": "0.1.1.0",
-      "ApplicableVersion": "any",
-      "DalamudApiLevel": "10",
-      "Changelog": "- First release.",
-      "TestingAssemblyVersion": "0.1.0.0",
-      "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/macroloop/main/icon.png"
+        "Author": "Pistachio Herald, Caraxi",
+        "Name": "Macro Loop",
+        "Punchline": "Allows macros to be looped.",
+        "Description": "Use /macroloop at the end of a macro to make it loop",
+        "Tags": [
+            "macro"
+        ],
+        "InternalName": "MacroLoop",
+        "RepoUrl": "https://github.com/Pistachio-dev/macroloop",
+        "DownloadCount": 420,
+        "LastUpdate": 1722963732787,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/macroloop/releases/download/release0.1.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/macroloop/releases/download/release0.1.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Pistachio-dev/macroloop/releases/download/release0.1.1/latest.zip",
+        "AssemblyVersion": "0.1.1.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "10",
+        "Changelog": "- First release.",
+        "TestingAssemblyVersion": "0.1.0.0",
+        "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/macroloop/main/icon.png"
+    },
+    {
+        "Author": "Pistachio Herald",
+        "Name": "Texas Hold'em Helper",
+        "Punchline": "Play poker in game chat.",
+        "Description": "It allows you to easily become the crupier for a Texas Hold'em game that uses in-game chat.",
+        "Tags": [
+            "poker",
+            "texas",
+            "hold'em",
+            "holdem",
+            "cards",
+            "card",
+            "gambling",
+            "gamba",
+            "venue",
+            "game",
+            "chat",
+            "crupier",
+            "gil",
+            "party",
+            "tell",
+            "deck"
+        ],
+        "InternalName": "HoldemHelper",
+        "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
+        "DownloadCount": 420,
+        "LastUpdate": 1726952834,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.8.5.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.8.5.1/latest.zip",
+        "AssemblyVersion": "0.8.5.1",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "10",
+        "Changelog": "- Added button to set funds as the all time balance.\n - Fixed several bugs.",
+        "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
+    },
+    {
+        "Author": "UnknownX",
+        "Name": "OOBlugin",
+        "Punchline": "oob oob",
+        "Description": "oob oob",
+        "Changelog": "",
+        "InternalName": "OOBlugin",
+        "AssemblyVersion": "1.1.3.0",
+        "RepoUrl": "https://github.com/Pistachio-dev/OOBlugin",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/OOBlugin/releases/download/v1.1.3.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Pistachio-dev/OOBlugin/releases/download/v1.1.3.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/OOBlugin/releases/download/v1.1.3.0/latest.zip",
+        "DownloadCount": 10261,
+        "LastUpdate": "1727553935"
     }
-  ]
+]
