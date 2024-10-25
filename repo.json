@@ -47,13 +47,13 @@
         "InternalName": "HoldemHelper",
         "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
         "DownloadCount": 420,
-        "LastUpdate": 1727888552,
-        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.8.5.3/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.8.5.3/latest.zip",
-        "AssemblyVersion": "0.8.5.3",
+        "LastUpdate": 1729892630,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.9.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.9.0.0/latest.zip",
+        "AssemblyVersion": "0.9.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
-        "Changelog": "- Fixed a bug where the last remaining player would become tapped out or folded, crashing the text output.\n- Added better tracking for another elusive bug.",
+        "Changelog": "- Restructured the whole thing, fixed bugs, improved logging. Changelog at https://discord.gg/tUxVGMS8",
         "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     },
     {
