@@ -47,13 +47,13 @@
         "InternalName": "HoldemHelper",
         "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
         "DownloadCount": 420,
-        "LastUpdate": 1730559452,
-        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.10.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.10.0.1/latest.zip",
-        "AssemblyVersion": "0.10.0.1",
+        "LastUpdate": 1730565213,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.10.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.10.0.2/latest.zip",
+        "AssemblyVersion": "0.10.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
-        "Changelog": "- Fixed bug that caused emotes to pile up and trigger at the wrong moment\n- Emotes now have a hierarchy. PlayerTurn will be interrupted by any other emote. CardDrawn will be interrupted either but any that is not PlayerTurn, or only by itself, depending a new checkbox added to configuration. Other emotes will be interrupted by any that is not PlayerTurn.\n- Added some backend changes to ease troubleshooting.",
+        "Changelog": "- Fixed an internal index going out of bounds in some scenarios and causing an error that broke the UI. Indexes are now adjusted properly when players are removed.",
         "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     },
     {
