@@ -47,13 +47,13 @@
         "InternalName": "HoldemHelper",
         "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
         "DownloadCount": 420,
-        "LastUpdate": 1730565213,
-        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.10.0.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.10.0.2/latest.zip",
-        "AssemblyVersion": "0.10.0.2",
+        "LastUpdate": 1730566692,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.10.0.3/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.10.0.3/latest.zip",
+        "AssemblyVersion": "0.10.0.3",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
-        "Changelog": "- Fixed an internal index going out of bounds in some scenarios and causing an error that broke the UI. Indexes are now adjusted properly when players are removed.",
+        "Changelog": "- Fixed an internal index going out of bounds in some scenarios and causing an error that broke the UI. Indexes are now adjusted properly when players are removed.\n- Fixed an issue on configuration saving",
         "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     },
     {
