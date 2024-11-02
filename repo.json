@@ -47,13 +47,13 @@
         "InternalName": "HoldemHelper",
         "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
         "DownloadCount": 420,
-        "LastUpdate": 1730489818,
-        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.10.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.10.0.0/latest.zip",
-        "AssemblyVersion": "0.10.0.0",
+        "LastUpdate": 1730559452,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.10.0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.10.0.1/latest.zip",
+        "AssemblyVersion": "0.10.0.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
-        "Changelog": "\n- Big internal restructuring that gets rid of some nasty bugs\n- Fixed very high numbers causing a crash\n- Calling spending all your funds now has special text\n- Implemented wake up functions: one with a party sound, other with a /tell\n- Moved AFK toggle to a button\n- Fixed blinds sometimes being charged twice in a row to the same player, instead of the next, when a new one joins\n- Added much more detailed logging that allows easier troubleshooting\n- Chat messages can now be delayed if needed. Added short delay on each showdown reveal.\n- Added \"What's my hand\" functionality. It will tell the player the highest hand they can currently form. Shift+Right click their cards to use it\n- Fixed calling chat from a different thread causing a game crash\n- Game is now saved on each state change, so it can be resumed after a crash easily. Added a game reset button to allow the crupier to have a clean slate.\n- There's an option now to save the player funds when removing it, in case someone did not get to cash out.\n- Balance related stats now ignore funds added manually, only buy-ins, cash-outs and donations.",
+        "Changelog": "- Fixed bug that caused emotes to pile up and trigger at the wrong moment\n- Emotes now have a hierarchy. PlayerTurn will be interrupted by any other emote. CardDrawn will be interrupted either but any that is not PlayerTurn, or only by itself, depending a new checkbox added to configuration. Other emotes will be interrupted by any that is not PlayerTurn.\n- Added some backend changes to ease troubleshooting.",
         "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     },
     {
