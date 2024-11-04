@@ -47,13 +47,13 @@
         "InternalName": "HoldemHelper",
         "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
         "DownloadCount": 420,
-        "LastUpdate": 1730566692,
-        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.10.1.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.10.1.0/latest.zip",
-        "AssemblyVersion": "0.10.1.0",
+        "LastUpdate": 1730758187,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.11.0.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.11.0.0/latest.zip",
+        "AssemblyVersion": "0.11.0.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
-        "Changelog": "Added a button to set the table with test players without needing to reset.",
+        "Changelog": "\n Added **autoplay: if the player, on their turn, types the action or its first letter, the action is immediately executed.**\n All situations where there is no more decision making now **skip to the Showdown** automatically\n Added a **How to use** functionality that shows on first run\n Added a **functionality to set the funds of all players to a value**, for quick elimination matches\n Added a few printable text guides to show to players new to poker\n Added a bunch of tooltips.",
         "IconUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/blob/main/holdemHelperLogo.png?raw=true"
     },
     {
