@@ -52,6 +52,8 @@
         "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/bugfix0.11.0.1/latest.zip",
         "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/testing0.12.0.0/latest.zip",
         "AssemblyVersion": "0.11.0.1",
+        "TestingAssemblyVersion": "0.12.0.0",
+        "TestingDalamudApiLevel": 10,
         "ApplicableVersion": "any",
         "DalamudApiLevel": "10",
         "Changelog": "\n Added **autoplay: if the player, on their turn, types the action or its first letter, the action is immediately executed.**\n All situations where there is no more decision making now **skip to the Showdown** automatically\n Added a **How to use** functionality that shows on first run\n Added a **functionality to set the funds of all players to a value**, for quick elimination matches\n Added a few printable text guides to show to players new to poker\n Added a bunch of tooltips.",
