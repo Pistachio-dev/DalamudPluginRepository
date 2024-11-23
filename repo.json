@@ -81,12 +81,12 @@
         "RepoUrl": "https://github.com/Pistachio-dev/TruthOrDareHelper",
         "DownloadCount": 69,
         "LastUpdate": 1732314919,
-        "DownloadLinkInstall": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.0.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.0.0/latest.zip",
-        "AssemblyVersion": "0.3.0.0",
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.1.0/latest.zip",
+        "AssemblyVersion": "0.3.1.0",
         "ApplicableVersion": "any",
         "DalamudApiLevel": "11",
-        "Changelog": "- Prompts can now be filtered. For instance, \"hint truth\" to get only truths, \"hint sfw\" to get  only sfw truths or dares, \"hint truth sfw\" to get only sfw truths\n- Removing a player now unmarks them, removes any player pair they're in and cancels any timer for them\n- Added table of timers\n- Timers can now be canceled\n- Added a button to end the game, removing and unmarking every player, pair and timer\n- Added button to toggle manual window size changing\n- Added an option to automatically roll for the next round when the all challenges are done\n- Added an option to allow or not to choose truth or dare again after it was already chosen\n- Made the matching more strict for very short keywords like \"t\", \"d\" or \"dch\"\n- Added a button to mark a player as AFK, so they are ignored when rolling\n- Fixed some messages printed by the plugin being interpreted as commands\n- Added a button to print the available chat commands",
+        "Changelog": "- Added a button to add any missing default prompts to your files\n- Added some default prompts\n- Prompts can now be filtered. For instance, \"hint truth\" to get only truths, \"hint sfw\" to get  only sfw truths or dares, \"hint truth sfw\" to get only sfw truths\n- Removing a player now unmarks them, removes any player pair they're in and cancels any timer for them\n- Added table of timers\n- Timers can now be canceled\n- Added a button to end the game, removing and unmarking every player, pair and timer\n- Added button to toggle manual window size changing\n- Added an option to automatically roll for the next round when the all challenges are done\n- Added an option to allow or not to choose truth or dare again after it was already chosen\n- Made the matching more strict for very short keywords like \"t\", \"d\" or \"dch\"\n- Added a button to mark a player as AFK, so they are ignored when rolling\n- Fixed some messages printed by the plugin being interpreted as commands\n- Added a button to print the available chat commands",
         "IconUrl": "https://github.com/Pistachio-dev/TruthOrDareHelper/blob/master/TruthOrDareHelper/ToDHoward.png?raw=true"
     },
     {
