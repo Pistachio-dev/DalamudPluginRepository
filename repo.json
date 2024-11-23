@@ -1,6 +1,6 @@
 [
     {
-        "Author": "Pistachio Herald, Caraxi",
+        "Author": "Pistachio Herald, modifying Caraxi's work",
         "Name": "Macro Loop",
         "Punchline": "Allows macros to be looped.",
         "Description": "Use /macroloop at the end of a macro to make it loop",
