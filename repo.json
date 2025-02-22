@@ -163,7 +163,7 @@
         "Deathroll",
         "Blackjack"
     ],
-    "DownloadLinkTesting": "https://github.com/Pistachio-dev/GambaGames/releases/download/0.2/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/GambaGames/releases/download/0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/GambaGames/releases/download/0.2/latest.zip",
     "DalamudApiLevel": 11,
     "Changelog": "Upated to API 11",
