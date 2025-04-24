@@ -1,5 +1,26 @@
 [
     {
+        "Author": "a tired programmer",
+        "Name": "This does nothing",
+        "Punchline": "Ignore it.",
+        "Description": "Ignore it",
+        "Tags": [
+            "macro"
+        ],
+        "InternalName": "SamplePlugin",
+        "RepoUrl": "https://github.com/Pistachio-dev/macroloop",
+        "DownloadCount": 420,
+        "LastUpdate": 1722963732787,
+        "DownloadLinkInstall": "https://github.com/Pistachio-dev/WorkflowsTestReleaseOnly/releases/download/check/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Pistachio-dev/WorkflowsTestReleaseOnly/releases/download/check/latest.zip",
+        "AssemblyVersion": "0.1.1.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "12",
+        "Changelog": "- First release.",
+        "TestingAssemblyVersion": "0.1.0.0",
+        "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/macroloop/main/icon.png"
+    },
+    {
         "Author": "Pistachio Herald, modifying Caraxi's work",
         "Name": "Macro Loop",
         "Punchline": "Allows macros to be looped.",
