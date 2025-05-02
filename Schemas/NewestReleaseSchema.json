@@ -8,7 +8,8 @@
     "properties": {
         "AssemblyVersion": {
             "description": "New assembly version, or TestAssemblyVersion if test release, formatted as x.x.x.x",
-            "type": "string"
+            "type": "string",
+            "pattern": "\\d+\\.\\d+\\.\\d+\\.\\d+"
         },
         "DalamudApiLevel":{
             "description": "DalamudApiLevel, or TestingDalamudApiLevel if test release",
