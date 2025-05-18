@@ -1,0 +1,14 @@
+[
+    {
+        "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/TruthOrDareHelper/refs/heads/master/Repo.json",
+        "pluginName": "ToD Howard"
+    },
+    {
+        "repoURL": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/blob/master/Repo.json",
+        "pluginName": "Cards Against Hyurmanity"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/refs/heads/main/Repo.json",
+        "pluginName": "Poker Texas Hold'em Helper"
+    }
+]
