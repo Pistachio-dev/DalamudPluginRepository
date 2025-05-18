@@ -15,7 +15,8 @@ jobs:
         $updatedRepos = New-Object PSCustomObject[] $repos.Count
         for (($i = 0); $i -lt $repos.Count; $i++)
         {
-            $localRepo = Invoke-RestMethod -Uri $repos[$i].repoURL -RetryIntervalSec 20 -MaximumRetryCount 10 | ConvertFrom-Json
+            Invoke-WebRequest -Uri $repos[$i].repoURL -RetryIntervalSec 20 -MaximumRetryCount 10 -OutFile localRepoFile
+            $localRepo = Get-Content -Path localRepoFile -Raw | ConvertFrom-Json
             $updatedRepos[$i] = $localRepo
             Write-Output $updatedRepos
             Write-Output "---------------------------------------------------------------------------"
