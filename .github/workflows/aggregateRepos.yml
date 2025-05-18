@@ -22,7 +22,7 @@ jobs:
             Write-Output "---------------------------------------------------------------------------"
         }
         
-        Set-Content -Path $pluginInfoPath -Value (ConvertTo-Json -InputObject $updatedRepos)
+        Set-Content -Path repo.json -Value (ConvertTo-Json -InputObject $updatedRepos)
     - name: Commit and push
       run: |
           git config --local user.name "[bot]github-actions_manual-release"
