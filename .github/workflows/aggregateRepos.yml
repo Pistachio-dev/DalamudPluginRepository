@@ -15,7 +15,7 @@ jobs:
         $updatedRepos = New-Object PSCustomObject[] $repos.Count
         for (($i = 0); $i -lt $repos.Count; $i++)
         {
-            $localRepo = Invoke-WebRequest -Uri $repos[$i].repoURL -RetryIntervalSec 20 -MaximumRetryCount 10
+            $localRepo = Invoke-WebRequest -Uri $repos[$i].repoURL -RetryIntervalSec 20 -MaximumRetryCount 10 -Raw
             $updatedRepos[$i] = $localRepo
             Write-Output $updatedRepos
             Write-Output "---------------------------------------------------------------------------"
@@ -23,7 +23,7 @@ jobs:
         
         Set-Content -Path $pluginInfoPath -Value (ConvertTo-Json -InputObject $updatedRepos)
     - name: Commit and push
-      run: |          
+      run: |
           git config --local user.name "[bot]github-actions_manual-release"
           git config --local user.email "[bot]github-actions_manual-release@users.noreply.github.com"
           git add "repo.json"
