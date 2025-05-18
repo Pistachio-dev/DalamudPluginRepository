@@ -13,7 +13,7 @@ jobs:
         $pluginInfoPath = "Regeneration\plugins.json"
         $repos = Get-Content -Path $pluginInfoPath -Raw | ConvertFrom-Json
         $updatedRepos = New-Object PSCustomObject[] $repos.Count
-        for (($i = 0); $i -lt $repos.Count; $++)
+        for (($i = 0); $i -lt $repos.Count; $i++)
         {
             $localRepo = Invoke-WebRequest -Uri $repos[$i].repoURL -RetryIntervalSec 20 -MaximumRetryCount 10
             $updatedRepos[$i] = $localRepo
