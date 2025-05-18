@@ -1,6 +1,5 @@
 name: "Aggregate data from all the plugins"
-on:
-  workflow_dispatch
+on: [ workflow_dispatch, workflow_call]
 jobs:
   releasePluginUpdate: 
     runs-on: windows-latest
