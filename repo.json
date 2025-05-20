@@ -23,11 +23,11 @@
     "TestingChangelog": "- Added meta information to the project file",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.3.3_testing/latest.zip",
     "DalamudApiLevel": 12,
-    "AssemblyVersion": "0.3.3.4",
-    "Changelog": "- Fixed pipeline not writing a needed field in the repo.",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.3.4_release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.3.4_release/latest.zip",
-    "LastUpdate": 1747729285,
+    "AssemblyVersion": "0.3.3.6",
+    "Changelog": "",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.3.6_release/TruthOrDareHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.3.6_release/TruthOrDareHelper.zip",
+    "LastUpdate": 1747738413,
     "InternalName": "TruthOrDareHelper"
   },
   {
@@ -50,11 +50,11 @@
       "incorrect"
     ],
     "DalamudApiLevel": 12,
-    "AssemblyVersion": "0.3.0.11",
-    "Changelog": "- Fixed pipeline not writing a needed field in the repo.",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.3.0.11_release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.3.0.11_release/latest.zip",
-    "LastUpdate": 1747728754,
+    "AssemblyVersion": "0.3.0.12",
+    "Changelog": "",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.3.0.12_release/CardsAgainstHyurmanity.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.3.0.12_release/CardsAgainstHyurmanity.zip",
+    "LastUpdate": 1747737985,
     "InternalName": "CardsAgainstHyurmanity"
   },
   {
@@ -80,11 +80,11 @@
     "TestingChangelog": "",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.5_testing/latest.zip",
     "DalamudApiLevel": 12,
-    "AssemblyVersion": "0.14.0.9",
+    "AssemblyVersion": "0.14.0.10",
     "Changelog": "",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.9_release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.9_release/latest.zip",
-    "LastUpdate": 1747733042,
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.10_release/HoldemHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.10_release/HoldemHelper.zip",
+    "LastUpdate": 1747738533,
     "InternalName": "HoldemHelper"
   }
 ]
