@@ -75,16 +75,16 @@
       "gil",
       "ace"
     ],
-    "TestingDalamudApiLevel": 12,
-    "TestingAssemblyVersion": "0.14.0.5",
-    "TestingChangelog": "",
-    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.5_testing/latest.zip",
     "DalamudApiLevel": 12,
     "AssemblyVersion": "0.14.0.10",
     "Changelog": "",
     "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.10_release/HoldemHelper.zip",
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.10_release/HoldemHelper.zip",
-    "LastUpdate": 1747738533,
+    "TestingDalamudApiLevel": 12,
+    "TestingAssemblyVersion": "0.15.0.0",
+    "TestingChangelog": "- New feature: if the croupier joins as a player, other players' cards will be hidden in both UI and /tell\n- Added a toogle to hide the plugin's outgoing tells even if the croupier is not playing\n- Note: This update should hide the /tells also from other plugins like XIM and Chat2.",
+    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.15.0.0_testing/HoldemHelper.zip",
+    "LastUpdate": 1747771597,
     "InternalName": "HoldemHelper"
   }
 ]
