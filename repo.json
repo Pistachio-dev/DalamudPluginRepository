@@ -22,7 +22,13 @@
     "TestingAssemblyVersion": "0.3.3.3",
     "TestingChangelog": "- Added meta information to the project file",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.3.3_testing/latest.zip",
-    "LastUpdate": 1747574930
+    "DalamudApiLevel": 12,
+    "AssemblyVersion": "0.3.3.4",
+    "Changelog": "- Fixed pipeline not writing a needed field in the repo.",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.3.4_release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.3.4_release/latest.zip",
+    "LastUpdate": 1747729285,
+    "InternalName": "TruthOrDareHelper"
   },
   {
     "Author": "Pistachio Herald",
@@ -74,10 +80,11 @@
     "TestingChangelog": "",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.5_testing/latest.zip",
     "DalamudApiLevel": 12,
-    "AssemblyVersion": "0.14.0.6",
+    "AssemblyVersion": "0.14.0.9",
     "Changelog": "",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.6_release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.6_release/latest.zip",
-    "LastUpdate": 1747590640
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.9_release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.14.0.9_release/latest.zip",
+    "LastUpdate": 1747733042,
+    "InternalName": "HoldemHelper"
   }
 ]
