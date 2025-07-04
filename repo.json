@@ -75,16 +75,16 @@
       "gil",
       "ace"
     ],
-    "TestingDalamudApiLevel": 12,
-    "TestingAssemblyVersion": "0.15.0.1",
-    "TestingChangelog": "- New feature: if the croupier joins as a player, other players' cards will be hidden in both UI and /tell\n- Added a toogle to hide the plugin's outgoing tells even if the croupier is not playing\n- Note: This update should hide the /tells also from other plugins like XIM and Chat2.\n- Removed invalid link to Lala's Casino",
-    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.15.0.1_testing/HoldemHelper.zip",
     "DalamudApiLevel": 12,
     "AssemblyVersion": "0.15.0.1",
     "Changelog": "- New feature: if the croupier joins as a player, other players' cards will be hidden in both UI and /tell\n- Added a toogle to hide the plugin's outgoing tells even if the croupier is not playing\n- Note: This update should hide the /tells also from other plugins like XIM and Chat2.\n- Removed invalid link to Lala's Casino",
     "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.15.0.1_release/HoldemHelper.zip",
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.15.0.1_release/HoldemHelper.zip",
-    "LastUpdate": 1748641764,
+    "TestingDalamudApiLevel": 12,
+    "TestingAssemblyVersion": "0.15.0.2",
+    "TestingChangelog": "- Replaced the invalid discord link with a permanent one\n- Replaced the down link to the hands reference with a new one\n- Tweaked the main window tooltips to be easier to read\n- Actions are now written with \"or\" instead of \"and\"",
+    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.15.0.2_testing/HoldemHelper.zip",
+    "LastUpdate": 1751649935,
     "InternalName": "HoldemHelper"
   }
 ]
