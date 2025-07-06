@@ -81,10 +81,10 @@
     "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.15.0.1_release/HoldemHelper.zip",
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.15.0.1_release/HoldemHelper.zip",
     "TestingDalamudApiLevel": 12,
-    "TestingAssemblyVersion": "0.15.0.2",
-    "TestingChangelog": "- Replaced the invalid discord link with a permanent one\n- Replaced the down link to the hands reference with a new one\n- Tweaked the main window tooltips to be easier to read\n- Actions are now written with \"or\" instead of \"and\"",
-    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.15.0.2_testing/HoldemHelper.zip",
-    "LastUpdate": 1751649935,
+    "TestingAssemblyVersion": "0.16.0.0",
+    "TestingChangelog": "- Fixed a bug where, when the croupier was a player, would mistake plugin output with player output, doing check or call instantly\n- Reorganized the buttons in tabs and added styling matching what they do",
+    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.16.0.0_testing/HoldemHelper.zip",
+    "LastUpdate": 1751825911,
     "InternalName": "HoldemHelper"
   }
 ]
