@@ -10,5 +10,9 @@
     {
         "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/refs/heads/main/Repo.json",
         "pluginName": "Poker Texas Hold'em Helper"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/ThisIsMyPartyFinder/refs/heads/master/Repo.json",
+        "pluginName": "MyPF"
     }
 ]
