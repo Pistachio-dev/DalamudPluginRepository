@@ -86,5 +86,29 @@
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.16.0.0_testing/HoldemHelper.zip",
     "LastUpdate": 1751825911,
     "InternalName": "HoldemHelper"
+  },
+  {
+    "Author": "Pistachio Herald",
+    "Name": "MyPF",
+    "Punchline": "Replaces <mypf> with your current PF listing. Macro friendly.",
+    "Description": "Replaces <mypf> with your current PF listing. Macro friendly.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "party finder",
+      "pf",
+      "party",
+      "recruitment",
+      "pug",
+      "gamba",
+      "looking",
+      "group"
+    ],
+    "DalamudApiLevel": 12,
+    "AssemblyVersion": "1.0.0.0",
+    "Changelog": "First functional build",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/ThisIsMyPartyFinder/releases/download/1.0.0.0_release/MyPF.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/ThisIsMyPartyFinder/releases/download/1.0.0.0_release/MyPF.zip",
+    "LastUpdate": 1751876495,
+    "InternalName": "MyPF"
   }
 ]
