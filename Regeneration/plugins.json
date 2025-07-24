@@ -14,5 +14,9 @@
     {
         "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/ThisIsMyPartyFinder/refs/heads/master/Repo.json",
         "pluginName": "MyPF"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/FFXIV_Autogardener/refs/heads/master/Repo.json",
+        "pluginName": "Autogardener"
     }
 ]
