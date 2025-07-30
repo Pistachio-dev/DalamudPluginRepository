@@ -75,41 +75,17 @@
       "gil",
       "ace"
     ],
-    "DalamudApiLevel": 12,
-    "AssemblyVersion": "0.15.0.1",
-    "Changelog": "- New feature: if the croupier joins as a player, other players' cards will be hidden in both UI and /tell\n- Added a toogle to hide the plugin's outgoing tells even if the croupier is not playing\n- Note: This update should hide the /tells also from other plugins like XIM and Chat2.\n- Removed invalid link to Lala's Casino",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.15.0.1_release/HoldemHelper.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.15.0.1_release/HoldemHelper.zip",
     "TestingDalamudApiLevel": 12,
     "TestingAssemblyVersion": "0.16.0.2",
     "TestingChangelog": "- Fixed who's turn is it not being written on the very first turn of the hand\n- Fixed autoplay being able to be triggered while the pocket cards are dealt\n- Autoplay now accepts \"r amount\" for raises e.g. \"r 20k\"",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.16.0.2_testing/HoldemHelper.zip",
-    "LastUpdate": 1752314581,
-    "InternalName": "HoldemHelper"
-  },
-  {
-    "Author": "Pistachio Herald",
-    "Name": "MyPF",
-    "Punchline": "Replaces <mypf> with your current PF listing. Macro friendly.",
-    "Description": "Replaces <mypf> with your current PF listing. Macro friendly.",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "party finder",
-      "pf",
-      "party",
-      "recruitment",
-      "pug",
-      "gamba",
-      "looking",
-      "group"
-    ],
     "DalamudApiLevel": 12,
-    "AssemblyVersion": "1.0.0.1",
-    "Changelog": "Added help messages\nAdded \"Forget listing\" button\nAdded timers\"Added toast notification for saved listing",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/ThisIsMyPartyFinder/releases/download/1.0.0.1_release/MyPF.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/ThisIsMyPartyFinder/releases/download/1.0.0.1_release/MyPF.zip",
-    "LastUpdate": 1752093266,
-    "InternalName": "MyPF"
+    "AssemblyVersion": "0.16.0.2",
+    "Changelog": "- Fixed who's turn is it not being written on the very first turn of the hand\n- Fixed autoplay being able to be triggered while the pocket cards are dealt\n- Autoplay now accepts \"r amount\" for raises e.g. \"r 20k\"",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.16.0.2_release/HoldemHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.16.0.2_release/HoldemHelper.zip",
+    "LastUpdate": 1753873265,
+    "InternalName": "HoldemHelper"
   },
   {
     "Author": "Pistachio Herald",
