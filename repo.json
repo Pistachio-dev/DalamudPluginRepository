@@ -75,16 +75,16 @@
       "gil",
       "ace"
     ],
-    "TestingDalamudApiLevel": 12,
-    "TestingAssemblyVersion": "0.16.0.2",
-    "TestingChangelog": "- Fixed who's turn is it not being written on the very first turn of the hand\n- Fixed autoplay being able to be triggered while the pocket cards are dealt\n- Autoplay now accepts \"r amount\" for raises e.g. \"r 20k\"",
-    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.16.0.2_testing/HoldemHelper.zip",
     "DalamudApiLevel": 12,
     "AssemblyVersion": "0.16.0.2",
     "Changelog": "- Fixed who's turn is it not being written on the very first turn of the hand\n- Fixed autoplay being able to be triggered while the pocket cards are dealt\n- Autoplay now accepts \"r amount\" for raises e.g. \"r 20k\"",
     "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.16.0.2_release/HoldemHelper.zip",
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.16.0.2_release/HoldemHelper.zip",
-    "LastUpdate": 1753873265,
+    "TestingDalamudApiLevel": 12,
+    "TestingAssemblyVersion": "0.17.0.0",
+    "TestingChangelog": "-Players game funds are now optionally kept track on in the tournament data, separated from their actual bounty and price money winnings.\n- Added a setting to cap the carried funds to the starting amount, so a table winner can't bully when tables merge.\n- Added a warning for cases where there are any players not in a table.\n- Fixed UI crashes for very rare edge cases that would not happend in a normal setting",
+    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.0.0_testing/HoldemHelper.zip",
+    "LastUpdate": 1753959403,
     "InternalName": "HoldemHelper"
   },
   {
