@@ -14,5 +14,9 @@
     {
         "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/FFXIV_Autogardener/refs/heads/master/Repo.json",
         "pluginName": "Autogardener"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/Faded-Roll-Fixer/refs/heads/master/Repo.json",
+        "pluginName": "Faded Orchestrion Roll Fixer"
     }
 ]
