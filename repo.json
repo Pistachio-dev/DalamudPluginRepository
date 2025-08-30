@@ -79,16 +79,16 @@
       "gil",
       "ace"
     ],
-    "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.17.1.0",
-    "Changelog": "- 7.3 Update",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.17.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/release0.17.1.0/latest.zip",
     "TestingDalamudApiLevel": 13,
     "TestingAssemblyVersion": "0.17.1.2",
     "TestingChangelog": "Fixed /tells not working when croupier is on the table",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_testing/HoldemHelper.zip",
-    "LastUpdate": 1756501098,
+    "DalamudApiLevel": 13,
+    "AssemblyVersion": "0.17.1.2",
+    "Changelog": "Fixed /tells not working when croupier is on the table",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_release/HoldemHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_release/HoldemHelper.zip",
+    "LastUpdate": 1756547112,
     "InternalName": "HoldemHelper"
   },
   {
