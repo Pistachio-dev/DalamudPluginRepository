@@ -18,5 +18,9 @@
     {
         "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/Faded-Roll-Fixer/refs/heads/master/Repo.json",
         "pluginName": "Faded Orchestrion Roll Fixer"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/FlashOnReadyCheck/refs/heads/master/Repo.json",
+        "pluginName": "Flash on /readycheck"
     }
 ]
