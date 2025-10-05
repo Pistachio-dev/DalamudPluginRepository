@@ -22,5 +22,9 @@
     {
         "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/FlashOnReadyCheck/refs/heads/master/Repo.json",
         "pluginName": "Flash on /readycheck"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/NorthStar/refs/heads/master/Repo.json",
+        "pluginName": "North Star"
     }
 ]
