@@ -30,7 +30,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.4.0_release/TruthOrDareHelper.zip",
     "LastUpdate": 1754825942,
     "InternalName": "TruthOrDareHelper",
-    "DownloadCount": "12"
+    "DownloadCount": "76"
   },
   {
     "Author": "Pistachio Herald",
@@ -63,7 +63,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.5.1.1_release/CardsAgainstHyurmanity.zip",
     "LastUpdate": 1758357517,
     "InternalName": "CardsAgainstHyurmanity",
-    "DownloadCount": "19"
+    "DownloadCount": "106"
   },
   {
     "Author": "Pistachio Herald",
@@ -95,7 +95,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_release/HoldemHelper.zip",
     "LastUpdate": 1756547112,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "30"
+    "DownloadCount": "198"
   },
   {
     "Author": "Pistachio Herald",
@@ -122,7 +122,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.7.1_release/Autogardener.zip",
     "LastUpdate": 1760689124,
     "InternalName": "Autogardener",
-    "DownloadCount": "11"
+    "DownloadCount": "85"
   },
   {
     "Author": "Pistachio Herald",
@@ -148,7 +148,7 @@
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.1_testing/FadedRollFixer.zip",
     "LastUpdate": 1759149333,
     "InternalName": "FadedRollFixer",
-    "DownloadCount": "4"
+    "DownloadCount": "7"
   },
   {
     "Author": "Pistachio Herald",
@@ -171,7 +171,7 @@
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.0_testing/FlashOnReadyCheck.zip",
     "LastUpdate": 1757450213,
     "InternalName": "FlashOnReadyCheck",
-    "DownloadCount": "1"
+    "DownloadCount": "0"
   },
   {
     "Author": "Pistachio Herald, based on Anna's Orange Guidance Tomestone",
@@ -194,6 +194,6 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.1.0_release/NorthStar.zip",
     "LastUpdate": 1760692838,
     "InternalName": "NorthStar",
-    "DownloadCount": "5"
+    "DownloadCount": "7"
   }
 ]
