@@ -11,7 +11,7 @@ for (($k = 0); $k -lt $jsonReleaseList.Count; $k++)
     for (($j = 0); $j -lt $release.assets.Count; $j++){
         $asset = $release.assets[$j]
         if ($asset.name.EndsWith(".zip")){
-            $lifetimeReleases++;
+            $lifetimeReleases = $lifetimeReleases + $asset.download_count;
         }    
     }
 }
