@@ -16,7 +16,7 @@ jobs:
         {
             Invoke-WebRequest -Uri $repos[$i].repoURL -RetryIntervalSec 20 -MaximumRetryCount 10 -OutFile localRepoFile
             $localRepo = Get-Content -Path localRepoFile -Raw | ConvertFrom-Json
-            $downloads = UpdateDownloadCount $repos[$i].repoURL
+            $downloads = "$(.\.github\Workflows\GetTotalDownloadCount.ps1 -RepoUrl $repos[$i].repoURL)"
             $localRepo | Add-Member -NotePropertyName DownloadCount -NotePropertyValue $downloads -Force
             $updatedRepos[$i] = $localRepo
             Write-Output $localRepo
