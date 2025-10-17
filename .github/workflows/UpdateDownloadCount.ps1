@@ -2,7 +2,7 @@ param ( [Parameter(Mandatory=$true)] [string]$RepoUrl)
 
 $lifetimeReleases = 0;
 $splitRepoUrl = $RepoURL -split "/"
-$releasesFetchUri = "https://api.github.com/repos/$($splitRepoUrl[4])/$($splitRepoUrl[5])/releases"
+$releasesFetchUri = "https://api.github.com/repos/$($splitRepoUrl[3])/$($splitRepoUrl[4])/releases"
 Write-Output "Releases URI: $($releasesFetchUri)"
 Invoke-WebRequest -Uri $releasesFetchUri -RetryIntervalSec 20 -MaximumRetryCount 10 -Outfile releaseListFile
 $jsonReleaseList = Get-Content -Path releaseListFile -Raw | ConvertFrom-Json
