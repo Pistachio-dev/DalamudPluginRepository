@@ -16,9 +16,12 @@ jobs:
         {
             Invoke-WebRequest -Uri $repos[$i].repoURL -RetryIntervalSec 20 -MaximumRetryCount 10 -OutFile localRepoFile
             $localRepo = Get-Content -Path localRepoFile -Raw | ConvertFrom-Json
+            $downloads = UpdateDownloadCount $repos[$i].repoURL
+            $localRepo | Add-Member -NotePropertyName DownloadCount -NotePropertyValue $downloads -Force
             $updatedRepos[$i] = $localRepo
-            Write-Output $updatedRepos
+            Write-Output $localRepo
             Write-Output "---------------------------------------------------------------------------"
+            
         }
         
         Set-Content -Path repo.json -Value (ConvertTo-Json -InputObject $updatedRepos)
