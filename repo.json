@@ -30,7 +30,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.4.0_release/TruthOrDareHelper.zip",
     "LastUpdate": 1754825942,
     "InternalName": "TruthOrDareHelper",
-    "DownloadCount": "78"
+    "DownloadCount": "79"
   },
   {
     "Author": "Pistachio Herald",
@@ -63,7 +63,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.0.0_release/CardsAgainstHyurmanity.zip",
     "LastUpdate": 1761320122,
     "InternalName": "CardsAgainstHyurmanity",
-    "DownloadCount": "106"
+    "DownloadCount": "113"
   },
   {
     "Author": "Pistachio Herald",
@@ -95,7 +95,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_release/HoldemHelper.zip",
     "LastUpdate": 1756547112,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "198"
+    "DownloadCount": "199"
   },
   {
     "Author": "Pistachio Herald",
@@ -122,7 +122,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.7.1_release/Autogardener.zip",
     "LastUpdate": 1760689124,
     "InternalName": "Autogardener",
-    "DownloadCount": "103"
+    "DownloadCount": "112"
   },
   {
     "Author": "Pistachio Herald",
@@ -194,6 +194,28 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.1.0_release/NorthStar.zip",
     "LastUpdate": 1760692838,
     "InternalName": "NorthStar",
-    "DownloadCount": "8"
+    "DownloadCount": "9"
+  },
+  {
+    "Author": "Pistachio Herald",
+    "Name": "Energy Saving Alt-Tab",
+    "Punchline": "Save power if you're not actually playing.",
+    "Description": "Slows the game FPS to a crawl when the window is inactive, saving GPU use. /esat opens the configuration window",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "energy",
+      "saving",
+      "background",
+      "multitasking",
+      "afk",
+      "party finder"
+    ],
+    "TestingDalamudApiLevel": 13,
+    "TestingAssemblyVersion": "0.0.0.2",
+    "TestingChangelog": "- Initial release",
+    "DownloadLinkTesting": "https://github.com/Pistachio-dev/EnergySavingAltTab/releases/download/0.0.0.2_testing/EnergySavingAltTab.zip",
+    "LastUpdate": 1761720019,
+    "InternalName": "EnergySavingAltTab",
+    "DownloadCount": "2"
   }
 ]
