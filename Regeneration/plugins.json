@@ -26,5 +26,9 @@
     {
         "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/NorthStar/refs/heads/master/Repo.json",
         "pluginName": "North Star"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/EnergySavingAltTab/refs/heads/master/Repo.json",
+        "pluginName": "Energy Saving Alt-Tab"
     }
 ]
