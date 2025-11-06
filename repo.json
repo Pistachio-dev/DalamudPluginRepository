@@ -30,7 +30,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.4.0_release/TruthOrDareHelper.zip",
     "LastUpdate": 1754825942,
     "InternalName": "TruthOrDareHelper",
-    "DownloadCount": "79"
+    "DownloadCount": "80"
   },
   {
     "Author": "Pistachio Herald",
@@ -63,7 +63,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.0.0_release/CardsAgainstHyurmanity.zip",
     "LastUpdate": 1761320122,
     "InternalName": "CardsAgainstHyurmanity",
-    "DownloadCount": "113"
+    "DownloadCount": "114"
   },
   {
     "Author": "Pistachio Herald",
@@ -95,7 +95,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_release/HoldemHelper.zip",
     "LastUpdate": 1756547112,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "199"
+    "DownloadCount": "200"
   },
   {
     "Author": "Pistachio Herald",
@@ -122,7 +122,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.7.1_release/Autogardener.zip",
     "LastUpdate": 1760689124,
     "InternalName": "Autogardener",
-    "DownloadCount": "112"
+    "DownloadCount": "119"
   },
   {
     "Author": "Pistachio Herald",
@@ -194,7 +194,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.1.0_release/NorthStar.zip",
     "LastUpdate": 1760692838,
     "InternalName": "NorthStar",
-    "DownloadCount": "9"
+    "DownloadCount": "10"
   },
   {
     "Author": "Pistachio Herald",
@@ -217,5 +217,27 @@
     "LastUpdate": 1761720019,
     "InternalName": "EnergySavingAltTab",
     "DownloadCount": "2"
+  },
+  {
+    "Author": "Pistachio Herald",
+    "Name": "Passport Checkpoint",
+    "Punchline": "Catch prog liars red-handed.",
+    "Description": "Right click to get party member tomestone pages.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "passport",
+      "prog",
+      "raiding",
+      "savage"
+    ],
+    "IconUrl": "https://ffxiv.consolegameswiki.com/mediawiki/images/8/86/Interject.png",
+    "DalamudApiLevel": 13,
+    "AssemblyVersion": "0.1.0.0",
+    "Changelog": "- Initial release.",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/PassportCheckpoint/releases/download/0.1.0.0_release/PassportCheckpoint.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/PassportCheckpoint/releases/download/0.1.0.0_release/PassportCheckpoint.zip",
+    "LastUpdate": 1762443064,
+    "InternalName": "PassportCheckpoint",
+    "DownloadCount": "0"
   }
 ]
