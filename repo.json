@@ -122,7 +122,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.7.1_release/Autogardener.zip",
     "LastUpdate": 1760689124,
     "InternalName": "Autogardener",
-    "DownloadCount": "119"
+    "DownloadCount": "121"
   },
   {
     "Author": "Pistachio Herald",
@@ -232,12 +232,12 @@
     ],
     "IconUrl": "https://ffxiv.consolegameswiki.com/mediawiki/images/8/86/Interject.png",
     "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.1.0.2",
-    "Changelog": "- If the player does not have a Tomestone profile, the plugin will print that instead of just \"something went wrong\".",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/PassportCheckpoint/releases/download/0.1.0.2_release/PassportCheckpoint.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/PassportCheckpoint/releases/download/0.1.0.2_release/PassportCheckpoint.zip",
-    "LastUpdate": 1762447777,
+    "AssemblyVersion": "0.1.0.1",
+    "Changelog": "- Initial release.",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/PassportCheckpoint/releases/download/0.1.0.1_release/PassportCheckpoint.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/PassportCheckpoint/releases/download/0.1.0.1_release/PassportCheckpoint.zip",
+    "LastUpdate": 1762445389,
     "InternalName": "PassportCheckpoint",
-    "DownloadCount": "1"
+    "DownloadCount": "6"
   }
 ]
