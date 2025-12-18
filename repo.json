@@ -30,7 +30,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.4.0_release/TruthOrDareHelper.zip",
     "LastUpdate": 1754825942,
     "InternalName": "TruthOrDareHelper",
-    "DownloadCount": "80"
+    "DownloadCount": "81"
   },
   {
     "Author": "Pistachio Herald",
@@ -63,7 +63,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.0.0_release/CardsAgainstHyurmanity.zip",
     "LastUpdate": 1761320122,
     "InternalName": "CardsAgainstHyurmanity",
-    "DownloadCount": "114"
+    "DownloadCount": "117"
   },
   {
     "Author": "Pistachio Herald",
@@ -95,7 +95,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_release/HoldemHelper.zip",
     "LastUpdate": 1756547112,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "200"
+    "DownloadCount": "203"
   },
   {
     "Author": "Pistachio Herald",
@@ -122,7 +122,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.7.1_release/Autogardener.zip",
     "LastUpdate": 1760689124,
     "InternalName": "Autogardener",
-    "DownloadCount": "121"
+    "DownloadCount": "134"
   },
   {
     "Author": "Pistachio Herald",
@@ -137,18 +137,18 @@
       "crafting",
       "music"
     ],
-    "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.1.0.1",
-    "Changelog": "- Initial release",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.0.1_release/FadedRollFixer.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.0.1_release/FadedRollFixer.zip",
     "TestingDalamudApiLevel": 13,
     "TestingAssemblyVersion": "0.1.1.1",
     "TestingChangelog": "- Initial release",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.1_testing/FadedRollFixer.zip",
-    "LastUpdate": 1759149333,
+    "DalamudApiLevel": 13,
+    "AssemblyVersion": "0.1.1.1",
+    "Changelog": "- Initial release",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.1_release/FadedRollFixer.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.1_release/FadedRollFixer.zip",
+    "LastUpdate": 1762767001,
     "InternalName": "FadedRollFixer",
-    "DownloadCount": "7"
+    "DownloadCount": "9"
   },
   {
     "Author": "Pistachio Herald",
@@ -169,7 +169,12 @@
     "TestingAssemblyVersion": "0.1.0.0",
     "TestingChangelog": "- Initial Release",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.0_testing/FlashOnReadyCheck.zip",
-    "LastUpdate": 1757450213,
+    "DalamudApiLevel": 13,
+    "AssemblyVersion": "0.1.0.0",
+    "Changelog": "- Initial Release",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.0_release/FlashOnReadyCheck.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.0_release/FlashOnReadyCheck.zip",
+    "LastUpdate": 1762767193,
     "InternalName": "FlashOnReadyCheck",
     "DownloadCount": "0"
   },
@@ -188,13 +193,13 @@
     ],
     "IconUrl": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/fe/Earthly_Star.png",
     "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.1.1.0",
-    "Changelog": "- Added configurable refresh timer and increased the default value.\n- Added button to despawn all VFX.\n- Spawn calls now despawn previous VFX even if no new one is actually drawn, to avoid leaks.\n- Added despawning of VFX on plugin disabling.",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.1.0_release/NorthStar.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.1.0_release/NorthStar.zip",
-    "LastUpdate": 1760692838,
+    "AssemblyVersion": "0.1.1.1",
+    "Changelog": "Code cleanup.",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.1.1_release/NorthStar.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.1.1_release/NorthStar.zip",
+    "LastUpdate": 1762770407,
     "InternalName": "NorthStar",
-    "DownloadCount": "10"
+    "DownloadCount": "16"
   },
   {
     "Author": "Pistachio Herald",
@@ -216,7 +221,7 @@
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/EnergySavingAltTab/releases/download/0.0.0.2_testing/EnergySavingAltTab.zip",
     "LastUpdate": 1761720019,
     "InternalName": "EnergySavingAltTab",
-    "DownloadCount": "2"
+    "DownloadCount": "4"
   },
   {
     "Author": "Pistachio Herald",
@@ -238,6 +243,6 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/PassportCheckpoint/releases/download/0.1.0.1_release/PassportCheckpoint.zip",
     "LastUpdate": 1762445389,
     "InternalName": "PassportCheckpoint",
-    "DownloadCount": "6"
+    "DownloadCount": "13"
   }
 ]
