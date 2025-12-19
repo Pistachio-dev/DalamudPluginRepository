@@ -90,8 +90,8 @@
     "DalamudApiLevel": 14,
     "AssemblyVersion": "0.17.2.0",
     "Changelog": "7.4 patch update",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/untagged-02956c269b58924df67c/HoldemHelper.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/untagged-02956c269b58924df67c/HoldemHelper.zip",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.2.0_release/HoldemHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.2.0_release/HoldemHelper.zip",
     "LastUpdate": 1766172111,
     "InternalName": "HoldemHelper",
     "DownloadCount": "200"
