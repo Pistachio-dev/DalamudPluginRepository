@@ -56,14 +56,14 @@
     "TestingAssemblyVersion": "0.5.1.1",
     "TestingChangelog": "- Added a button to continue the game where you left it. - Added more cards",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.5.1.1_testing/CardsAgainstHyurmanity.zip",
-    "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.6.0.0",
-    "Changelog": "- Added conjugation of verbs to match the black card. For instance:\n    - Before: Remember us. Remember that we once standing AFK in Limsa.\n    - Now: Remember us. Remember that we once stood AFK in Limsa.\n    - This is implemented with big lists of verbs and not a full language model, so there will be jank\n- Added more cards, modified some others\n- Fixed the last card of the deck always being skipped\n",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.0.0_release/CardsAgainstHyurmanity.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.0.0_release/CardsAgainstHyurmanity.zip",
-    "LastUpdate": 1761320122,
+    "DalamudApiLevel": 14,
+    "AssemblyVersion": "0.6.1.4",
+    "Changelog": "- Patch 7.4h1 update",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.1.4_release/CardsAgainstHyurmanity.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.1.4_release/CardsAgainstHyurmanity.zip",
+    "LastUpdate": 1766253205,
     "InternalName": "CardsAgainstHyurmanity",
-    "DownloadCount": "117"
+    "DownloadCount": "122"
   },
   {
     "Author": "Pistachio Herald",
@@ -90,11 +90,11 @@
     "DalamudApiLevel": 14,
     "AssemblyVersion": "0.17.2.0",
     "Changelog": "7.4 patch update",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.2.0_release/HoldemHelper.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.2.0_release/HoldemHelper.zip",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/untagged-02956c269b58924df67c/HoldemHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/untagged-02956c269b58924df67c/HoldemHelper.zip",
     "LastUpdate": 1766172111,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "200"
+    "DownloadCount": "225"
   },
   {
     "Author": "Pistachio Herald",
@@ -114,14 +114,14 @@
     "TestingAssemblyVersion": "0.3.6.0",
     "TestingChangelog": "- Plugin can now identify and update moved plots\n- Added a button to mark the location of a plot on the map\n- \"Plot missing\" message no longer shows in non-residential areas\n- Flowerpots are now impossible to register. That is a good thing.",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.6.0_testing/Autogardener.zip",
-    "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.3.7.1",
-    "Changelog": "-Users can now fine tune the plugin's speed and patience\n- Plugin can now identify and update moved plots\n- Added a button to mark the location of a plot on the map\n- \"Plot missing\" message no longer shows in non-residential areas\n- Flowerpots are now impossible to register. That is a good thing.\n- Added an info marker about plots sometimes being forgotten and how to fix it",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.7.1_release/Autogardener.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.7.1_release/Autogardener.zip",
-    "LastUpdate": 1760689124,
+    "DalamudApiLevel": 14,
+    "AssemblyVersion": "0.3.8.0",
+    "Changelog": "- Updated for 7.4\n- Known issue: Item search window will be opened when using fertilizer",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.8.0_release/Autogardener.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.8.0_release/Autogardener.zip",
+    "LastUpdate": 1766931108,
     "InternalName": "Autogardener",
-    "DownloadCount": "134"
+    "DownloadCount": "135"
   },
   {
     "Author": "Pistachio Herald",
@@ -140,14 +140,14 @@
     "TestingAssemblyVersion": "0.1.1.1",
     "TestingChangelog": "- Initial release",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.1_testing/FadedRollFixer.zip",
-    "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.1.1.1",
-    "Changelog": "- Initial release",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.1_release/FadedRollFixer.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.1_release/FadedRollFixer.zip",
-    "LastUpdate": 1762767001,
+    "DalamudApiLevel": 14,
+    "AssemblyVersion": "0.1.1.2",
+    "Changelog": "- 7.4 patch",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.2_release/FadedRollFixer.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.2_release/FadedRollFixer.zip",
+    "LastUpdate": 1766255610,
     "InternalName": "FadedRollFixer",
-    "DownloadCount": "9"
+    "DownloadCount": "10"
   },
   {
     "Author": "Pistachio Herald",
@@ -168,14 +168,14 @@
     "TestingAssemblyVersion": "0.1.0.0",
     "TestingChangelog": "- Initial Release",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.0_testing/FlashOnReadyCheck.zip",
-    "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.1.0.0",
-    "Changelog": "- Initial Release",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.0_release/FlashOnReadyCheck.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.0_release/FlashOnReadyCheck.zip",
-    "LastUpdate": 1762767193,
+    "DalamudApiLevel": 14,
+    "AssemblyVersion": "0.1.0.1",
+    "Changelog": "- 7.4 patch",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.1_release/FlashOnReadyCheck.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.1_release/FlashOnReadyCheck.zip",
+    "LastUpdate": 1766258508,
     "InternalName": "FlashOnReadyCheck",
-    "DownloadCount": "0"
+    "DownloadCount": "2"
   },
   {
     "Author": "Pistachio Herald, based on Anna's Orange Guidance Tomestone",
@@ -191,14 +191,14 @@
       "guidance"
     ],
     "IconUrl": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/fe/Earthly_Star.png",
-    "DalamudApiLevel": 13,
-    "AssemblyVersion": "0.1.1.1",
-    "Changelog": "Code cleanup.",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.1.1_release/NorthStar.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.1.1_release/NorthStar.zip",
-    "LastUpdate": 1762770407,
+    "DalamudApiLevel": 14,
+    "AssemblyVersion": "0.1.2.0",
+    "Changelog": "Patch 7.4",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.0_release/NorthStar.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.0_release/NorthStar.zip",
+    "LastUpdate": 1766931158,
     "InternalName": "NorthStar",
-    "DownloadCount": "16"
+    "DownloadCount": "19"
   },
   {
     "Author": "Pistachio Herald",
@@ -218,9 +218,14 @@
     "TestingAssemblyVersion": "0.0.0.2",
     "TestingChangelog": "- Initial release",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/EnergySavingAltTab/releases/download/0.0.0.2_testing/EnergySavingAltTab.zip",
-    "LastUpdate": 1761720019,
+    "DalamudApiLevel": 14,
+    "AssemblyVersion": "0.0.0.3",
+    "Changelog": "- Patch 7.4",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/EnergySavingAltTab/releases/download/0.0.0.3_release/EnergySavingAltTab.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/EnergySavingAltTab/releases/download/0.0.0.3_release/EnergySavingAltTab.zip",
+    "LastUpdate": 1766255018,
     "InternalName": "EnergySavingAltTab",
-    "DownloadCount": "4"
+    "DownloadCount": "7"
   },
   {
     "Author": "Pistachio Herald",
