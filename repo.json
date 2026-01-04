@@ -63,7 +63,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.1.4_release/CardsAgainstHyurmanity.zip",
     "LastUpdate": 1766253205,
     "InternalName": "CardsAgainstHyurmanity",
-    "DownloadCount": "122"
+    "DownloadCount": "131"
   },
   {
     "Author": "Pistachio Herald",
@@ -121,7 +121,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.8.0_release/Autogardener.zip",
     "LastUpdate": 1766931108,
     "InternalName": "Autogardener",
-    "DownloadCount": "135"
+    "DownloadCount": "160"
   },
   {
     "Author": "Pistachio Herald",
@@ -192,13 +192,13 @@
     ],
     "IconUrl": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/fe/Earthly_Star.png",
     "DalamudApiLevel": 14,
-    "AssemblyVersion": "0.1.2.0",
+    "AssemblyVersion": "0.1.2.1",
     "Changelog": "Patch 7.4",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.0_release/NorthStar.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.0_release/NorthStar.zip",
-    "LastUpdate": 1766931158,
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.1_release/NorthStar.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.1_release/NorthStar.zip",
+    "LastUpdate": 1767434974,
     "InternalName": "NorthStar",
-    "DownloadCount": "19"
+    "DownloadCount": "25"
   },
   {
     "Author": "Pistachio Herald",
@@ -225,7 +225,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/EnergySavingAltTab/releases/download/0.0.0.3_release/EnergySavingAltTab.zip",
     "LastUpdate": 1766255018,
     "InternalName": "EnergySavingAltTab",
-    "DownloadCount": "7"
+    "DownloadCount": "9"
   },
   {
     "Author": "Pistachio Herald",
@@ -248,5 +248,27 @@
     "LastUpdate": 1762445389,
     "InternalName": "PassportCheckpoint",
     "DownloadCount": "13"
+  },
+  {
+    "Author": "Pistachio Herald",
+    "Name": "Polaroid",
+    "Punchline": "Makes /photograph take an actual picture.",
+    "Description": "Makes /photograph take an actual picture",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "instapix",
+      "photograph",
+      "photo",
+      "screenshot",
+      "gpose"
+    ],
+    "DalamudApiLevel": 14,
+    "AssemblyVersion": "0.0.0.1",
+    "Changelog": "Initial release",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Polaroid/releases/download/0.0.0.1_release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Polaroid/releases/download/0.0.0.1_release/latest.zip",
+    "LastUpdate": 1767522333,
+    "InternalName": "Polaroid",
+    "DownloadCount": "0"
   }
 ]
