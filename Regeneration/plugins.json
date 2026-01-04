@@ -34,5 +34,9 @@
     {
         "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/PassportCheckpoint/refs/heads/master/Repo.json",
         "pluginName": "Passport Checkpoint"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/Polaroid/refs/heads/master/Repo.json",
+        "pluginName": "Polaroid"
     }
 ]
