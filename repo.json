@@ -90,11 +90,11 @@
     "DalamudApiLevel": 14,
     "AssemblyVersion": "0.17.3.0",
     "Changelog": "- Fixed player references getting scrambled in some situations.",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/HoldemHelper/releases/download/0.17.3.0_release/HoldemHelper.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/HoldemHelper/releases/download/0.17.3.0_release/HoldemHelper.zip",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.3.0_release/HoldemHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.3.0_release/HoldemHelper.zip",
     "LastUpdate": 1767819665,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "222"
+    "DownloadCount": "223"
   },
   {
     "Author": "Pistachio Herald",
