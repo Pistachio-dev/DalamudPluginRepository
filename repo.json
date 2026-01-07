@@ -88,13 +88,13 @@
     "TestingChangelog": "Fixed /tells not working when croupier is on the table",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_testing/HoldemHelper.zip",
     "DalamudApiLevel": 14,
-    "AssemblyVersion": "0.17.2.0",
-    "Changelog": "7.4 patch update",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/untagged-02956c269b58924df67c/HoldemHelper.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/untagged-02956c269b58924df67c/HoldemHelper.zip",
-    "LastUpdate": 1766172111,
+    "AssemblyVersion": "0.17.3.0",
+    "Changelog": "- Fixed player references getting scrambled in some situations.",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/HoldemHelper/releases/download/0.17.3.0_release/HoldemHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/HoldemHelper/releases/download/0.17.3.0_release/HoldemHelper.zip",
+    "LastUpdate": 1767819665,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "225"
+    "DownloadCount": "222"
   },
   {
     "Author": "Pistachio Herald",
@@ -270,6 +270,6 @@
     "LastUpdate": 1767626583,
     "InternalName": "Polaroid",
     "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/Polaroid/refs/heads/master/Polaroid/polaroidIcon.png",
-    "DownloadCount": "11"
+    "DownloadCount": "14"
   }
 ]
