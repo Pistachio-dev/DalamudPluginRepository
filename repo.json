@@ -63,7 +63,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.1.4_release/CardsAgainstHyurmanity.zip",
     "LastUpdate": 1766253205,
     "InternalName": "CardsAgainstHyurmanity",
-    "DownloadCount": "131"
+    "DownloadCount": "135"
   },
   {
     "Author": "Pistachio Herald",
@@ -88,13 +88,13 @@
     "TestingChangelog": "Fixed /tells not working when croupier is on the table",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_testing/HoldemHelper.zip",
     "DalamudApiLevel": 14,
-    "AssemblyVersion": "0.17.3.0",
-    "Changelog": "- Fixed player references getting scrambled in some situations.",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.3.0_release/HoldemHelper.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.3.0_release/HoldemHelper.zip",
-    "LastUpdate": 1767819665,
+    "AssemblyVersion": "0.17.3.1",
+    "Changelog": "- Fixed player references getting reset more than necessary.",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/HoldemHelper/releases/download/0.17.3.1_release/HoldemHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/HoldemHelper/releases/download/0.17.3.1_release/HoldemHelper.zip",
+    "LastUpdate": 1768471673,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "223"
+    "DownloadCount": "238"
   },
   {
     "Author": "Pistachio Herald",
@@ -121,7 +121,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.8.0_release/Autogardener.zip",
     "LastUpdate": 1766931108,
     "InternalName": "Autogardener",
-    "DownloadCount": "160"
+    "DownloadCount": "164"
   },
   {
     "Author": "Pistachio Herald",
@@ -147,7 +147,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.2_release/FadedRollFixer.zip",
     "LastUpdate": 1766255610,
     "InternalName": "FadedRollFixer",
-    "DownloadCount": "10"
+    "DownloadCount": "11"
   },
   {
     "Author": "Pistachio Herald",
@@ -175,7 +175,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.1_release/FlashOnReadyCheck.zip",
     "LastUpdate": 1766258508,
     "InternalName": "FlashOnReadyCheck",
-    "DownloadCount": "2"
+    "DownloadCount": "3"
   },
   {
     "Author": "Pistachio Herald, based on Anna's Orange Guidance Tomestone",
@@ -198,7 +198,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.1_release/NorthStar.zip",
     "LastUpdate": 1767434974,
     "InternalName": "NorthStar",
-    "DownloadCount": "25"
+    "DownloadCount": "27"
   },
   {
     "Author": "Pistachio Herald",
@@ -225,7 +225,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/EnergySavingAltTab/releases/download/0.0.0.3_release/EnergySavingAltTab.zip",
     "LastUpdate": 1766255018,
     "InternalName": "EnergySavingAltTab",
-    "DownloadCount": "9"
+    "DownloadCount": "10"
   },
   {
     "Author": "Pistachio Herald",
@@ -247,7 +247,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/PassportCheckpoint/releases/download/0.1.0.2_release/PassportCheckpoint.zip",
     "LastUpdate": 1767528457,
     "InternalName": "PassportCheckpoint",
-    "DownloadCount": "8"
+    "DownloadCount": "14"
   },
   {
     "Author": "Pistachio Herald",
@@ -270,6 +270,6 @@
     "LastUpdate": 1767626583,
     "InternalName": "Polaroid",
     "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/Polaroid/refs/heads/master/Polaroid/polaroidIcon.png",
-    "DownloadCount": "14"
+    "DownloadCount": "17"
   }
 ]
