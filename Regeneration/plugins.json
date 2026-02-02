@@ -38,5 +38,9 @@
     {
         "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/Polaroid/refs/heads/master/Repo.json",
         "pluginName": "Polaroid"
+    },
+    {
+        "repoURL": "https://raw.githubusercontent.com/Pistachio-dev/FFXIVChatMinigameCollection/refs/heads/master/Repo.json",
+        "pluginName": "Minigamba collection"
     }
 ]
