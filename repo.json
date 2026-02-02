@@ -30,7 +30,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/TruthOrDareHelper/releases/download/0.3.4.0_release/TruthOrDareHelper.zip",
     "LastUpdate": 1754825942,
     "InternalName": "TruthOrDareHelper",
-    "DownloadCount": "81"
+    "DownloadCount": "82"
   },
   {
     "Author": "Pistachio Herald",
@@ -63,7 +63,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.1.4_release/CardsAgainstHyurmanity.zip",
     "LastUpdate": 1766253205,
     "InternalName": "CardsAgainstHyurmanity",
-    "DownloadCount": "135"
+    "DownloadCount": "138"
   },
   {
     "Author": "Pistachio Herald",
@@ -94,7 +94,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.3.3_release/HoldemHelper.zip",
     "LastUpdate": 1768475741,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "226"
+    "DownloadCount": "250"
   },
   {
     "Author": "Pistachio Herald",
@@ -121,7 +121,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.8.0_release/Autogardener.zip",
     "LastUpdate": 1766931108,
     "InternalName": "Autogardener",
-    "DownloadCount": "164"
+    "DownloadCount": "172"
   },
   {
     "Author": "Pistachio Herald",
@@ -198,7 +198,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.3_release/NorthStar.zip",
     "LastUpdate": 1768475625,
     "InternalName": "NorthStar",
-    "DownloadCount": "28"
+    "DownloadCount": "31"
   },
   {
     "Author": "Pistachio Herald",
@@ -270,6 +270,31 @@
     "LastUpdate": 1767626583,
     "InternalName": "Polaroid",
     "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/Polaroid/refs/heads/master/Polaroid/polaroidIcon.png",
-    "DownloadCount": "17"
+    "DownloadCount": "19"
+  },
+  {
+    "Author": "Pistachio Herald",
+    "Name": "Minigame Collection",
+    "Punchline": "A collection of of venue or casino games.",
+    "Description": "A collection of of venue or casino games. Type /minig to start.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "party",
+      "venue",
+      "casino",
+      "gil",
+      "roulette",
+      "garlean",
+      "darts"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/FFXIVChatMinigameCollection/refs/heads/main/images/icon.png",
+    "DalamudApiLevel": 14,
+    "AssemblyVersion": "0.0.0.1",
+    "Changelog": "- Initial Release",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection/releases/download/0.0.0.1_release/MinigameCollection.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection/releases/download/0.0.0.1_release/MinigameCollection.zip",
+    "LastUpdate": 1770048006,
+    "InternalName": "MinigameCollection",
+    "DownloadCount": "0"
   }
 ]
