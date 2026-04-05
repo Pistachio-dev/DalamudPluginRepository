@@ -63,7 +63,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.2.0_release/CardsAgainstHyurmanity.zip",
     "LastUpdate": 1773326564,
     "InternalName": "CardsAgainstHyurmanity",
-    "DownloadCount": "140"
+    "DownloadCount": "144"
   },
   {
     "Author": "Pistachio Herald",
@@ -83,18 +83,18 @@
       "gil",
       "ace"
     ],
-    "TestingDalamudApiLevel": 13,
-    "TestingAssemblyVersion": "0.17.1.2",
-    "TestingChangelog": "Fixed /tells not working when croupier is on the table",
-    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.1.2_testing/HoldemHelper.zip",
     "DalamudApiLevel": 14,
     "AssemblyVersion": "0.17.4.0",
     "Changelog": "- Cash out automatically fills the amount in the trade window.",
     "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.4.0_release/HoldemHelper.zip",
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.4.0_release/HoldemHelper.zip",
-    "LastUpdate": 1773156956,
+    "TestingDalamudApiLevel": 14,
+    "TestingAssemblyVersion": "0.17.5.0",
+    "TestingChangelog": "- Plugin will reopen trade until it is cancelled, 0, or cash-out is complete",
+    "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.5.0_testing/HoldemHelper.zip",
+    "LastUpdate": 1775398302,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "263"
+    "DownloadCount": "248"
   },
   {
     "Author": "Pistachio Herald",
@@ -121,7 +121,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.8.0_release/Autogardener.zip",
     "LastUpdate": 1766931108,
     "InternalName": "Autogardener",
-    "DownloadCount": "241"
+    "DownloadCount": "249"
   },
   {
     "Author": "Pistachio Herald",
@@ -225,7 +225,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/EnergySavingAltTab/releases/download/0.0.0.3_release/EnergySavingAltTab.zip",
     "LastUpdate": 1766255018,
     "InternalName": "EnergySavingAltTab",
-    "DownloadCount": "13"
+    "DownloadCount": "16"
   },
   {
     "Author": "Pistachio Herald",
@@ -270,7 +270,7 @@
     "LastUpdate": 1767626583,
     "InternalName": "Polaroid",
     "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/Polaroid/refs/heads/master/Polaroid/polaroidIcon.png",
-    "DownloadCount": "21"
+    "DownloadCount": "22"
   },
   {
     "Author": "Pistachio Herald",
@@ -289,12 +289,12 @@
     ],
     "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/FFXIVChatMinigameCollection/refs/heads/main/images/icon.png",
     "DalamudApiLevel": 14,
-    "AssemblyVersion": "0.0.2.2",
-    "Changelog": "- Added a button to add the host as player\n- When using a public chat (/say, /yell, /shout), rolls will use /random instead of dice.",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection/releases/download/0.0.2.2_release/MinigameCollection.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection/releases/download/0.0.2.2_release/MinigameCollection.zip",
-    "LastUpdate": 1773343402,
+    "AssemblyVersion": "0.0.2.3",
+    "Changelog": "- Re-trading only works if you have the plugin window open now, instead of always.",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection/releases/download/0.0.2.3_release/MinigameCollection.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection/releases/download/0.0.2.3_release/MinigameCollection.zip",
+    "LastUpdate": 1775397586,
     "InternalName": "MinigameCollection",
-    "DownloadCount": "36"
+    "DownloadCount": "41"
   }
 ]
