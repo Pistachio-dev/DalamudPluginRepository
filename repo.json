@@ -83,18 +83,18 @@
       "gil",
       "ace"
     ],
-    "DalamudApiLevel": 14,
-    "AssemblyVersion": "0.17.4.0",
-    "Changelog": "- Cash out automatically fills the amount in the trade window.",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.4.0_release/HoldemHelper.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.17.4.0_release/HoldemHelper.zip",
     "TestingDalamudApiLevel": 14,
     "TestingAssemblyVersion": "0.18.0.1",
     "TestingChangelog": "- Draw 5 gamemode added\n- Fixed wrong message about the blinds being written",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.18.0.1_testing/HoldemHelper.zip",
-    "LastUpdate": 1776444959,
+    "DalamudApiLevel": 15,
+    "AssemblyVersion": "0.19.0.0",
+    "Changelog": "- Updated for patch 7.5\n- \"Who's winning\" now works on 5-draw\n5-draw shows 5 question marks if the croupier is playing",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.19.0.0_release/HoldemHelper.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.19.0.0_release/HoldemHelper.zip",
+    "LastUpdate": 1777548259,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "252"
+    "DownloadCount": "255"
   },
   {
     "Author": "Pistachio Herald",
@@ -121,7 +121,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.8.0_release/Autogardener.zip",
     "LastUpdate": 1766931108,
     "InternalName": "Autogardener",
-    "DownloadCount": "251"
+    "DownloadCount": "257"
   },
   {
     "Author": "Pistachio Herald",
@@ -198,7 +198,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.3_release/NorthStar.zip",
     "LastUpdate": 1768475625,
     "InternalName": "NorthStar",
-    "DownloadCount": "33"
+    "DownloadCount": "35"
   },
   {
     "Author": "Pistachio Herald",
@@ -270,7 +270,7 @@
     "LastUpdate": 1767626583,
     "InternalName": "Polaroid",
     "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/Polaroid/refs/heads/master/Polaroid/polaroidIcon.png",
-    "DownloadCount": "22"
+    "DownloadCount": "24"
   },
   {
     "Author": "Pistachio Herald",
