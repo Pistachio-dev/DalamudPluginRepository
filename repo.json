@@ -57,11 +57,11 @@
     "TestingChangelog": "- Added a button to continue the game where you left it. - Added more cards",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.5.1.1_testing/CardsAgainstHyurmanity.zip",
     "DalamudApiLevel": 14,
-    "AssemblyVersion": "0.6.2.0",
-    "Changelog": "- Added some cards\n- Added button to add host as a player\n- Added /yell and /shout channels. Use at your own risk\n- Improved UI looks\n- Reduced the list of recognized verbs to verbs not used as noun ever\n- Added a button that prints a short \"How to play\" guide\n- Added more spacing to white cards for better readability",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.2.0_release/CardsAgainstHyurmanity.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.2.0_release/CardsAgainstHyurmanity.zip",
-    "LastUpdate": 1773326564,
+    "AssemblyVersion": "0.6.3.0",
+    "Changelog": "- 7.5 update",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.3.0_release/CardsAgainstHyurmanity.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity/releases/download/0.6.3.0_release/CardsAgainstHyurmanity.zip",
+    "LastUpdate": 1777905428,
     "InternalName": "CardsAgainstHyurmanity",
     "DownloadCount": "146"
   },
@@ -94,7 +94,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin/releases/download/0.19.0.0_release/HoldemHelper.zip",
     "LastUpdate": 1777548259,
     "InternalName": "HoldemHelper",
-    "DownloadCount": "255"
+    "DownloadCount": "275"
   },
   {
     "Author": "Pistachio Herald",
@@ -147,7 +147,7 @@
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/Faded-Roll-Fixer/releases/download/0.1.1.2_release/FadedRollFixer.zip",
     "LastUpdate": 1766255610,
     "InternalName": "FadedRollFixer",
-    "DownloadCount": "11"
+    "DownloadCount": "12"
   },
   {
     "Author": "Pistachio Herald",
@@ -168,9 +168,9 @@
     "TestingAssemblyVersion": "0.1.0.0",
     "TestingChangelog": "- Initial Release",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.0_testing/FlashOnReadyCheck.zip",
-    "DalamudApiLevel": 14,
-    "AssemblyVersion": "0.1.0.1",
-    "Changelog": "- 7.4 patch",
+    "DalamudApiLevel": 15,
+    "AssemblyVersion": "0.1.0.2",
+    "Changelog": "- 7.5 patch",
     "DownloadLinkInstall": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.1_release/FlashOnReadyCheck.zip",
     "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FlashOnReadyCheck/releases/download/0.1.0.1_release/FlashOnReadyCheck.zip",
     "LastUpdate": 1766258508,
@@ -191,12 +191,12 @@
       "guidance"
     ],
     "IconUrl": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/fe/Earthly_Star.png",
-    "DalamudApiLevel": 14,
-    "AssemblyVersion": "0.1.2.3",
-    "Changelog": "Patch 7.4",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.3_release/NorthStar.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.2.3_release/NorthStar.zip",
-    "LastUpdate": 1768475625,
+    "DalamudApiLevel": 15,
+    "AssemblyVersion": "0.1.3.1",
+    "Changelog": "-Patch 7.5\n -VFX now are hidden on cutscenes",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.3.1_release/NorthStar.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/NorthStar/releases/download/0.1.3.1_release/NorthStar.zip",
+    "LastUpdate": 1777908356,
     "InternalName": "NorthStar",
     "DownloadCount": "35"
   },
@@ -288,12 +288,12 @@
       "darts"
     ],
     "IconUrl": "https://raw.githubusercontent.com/Pistachio-dev/FFXIVChatMinigameCollection/refs/heads/main/images/icon.png",
-    "DalamudApiLevel": 14,
-    "AssemblyVersion": "0.0.2.3",
-    "Changelog": "- Re-trading only works if you have the plugin window open now, instead of always.",
-    "DownloadLinkInstall": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection/releases/download/0.0.2.3_release/MinigameCollection.zip",
-    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection/releases/download/0.0.2.3_release/MinigameCollection.zip",
-    "LastUpdate": 1775397586,
+    "DalamudApiLevel": 15,
+    "AssemblyVersion": "0.0.2.4",
+    "Changelog": "- Patch 4.5.",
+    "DownloadLinkInstall": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection/releases/download/0.0.2.4_release/MinigameCollection.zip",
+    "DownloadLinkUpdate": "https://github.com/Pistachio-dev/FFXIVChatMinigameCollection/releases/download/0.0.2.4_release/MinigameCollection.zip",
+    "LastUpdate": 1777911378,
     "InternalName": "MinigameCollection",
     "DownloadCount": "47"
   }
