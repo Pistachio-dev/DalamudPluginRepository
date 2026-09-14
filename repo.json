@@ -114,7 +114,7 @@
     "TestingAssemblyVersion": "0.3.6.0",
     "TestingChangelog": "- Plugin can now identify and update moved plots\n- Added a button to mark the location of a plot on the map\n- \"Plot missing\" message no longer shows in non-residential areas\n- Flowerpots are now impossible to register. That is a good thing.",
     "DownloadLinkTesting": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.6.0_testing/Autogardener.zip",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "AssemblyVersion": "0.3.8.0",
     "Changelog": "- Updated for 7.4\n- Known issue: Item search window will be opened when using fertilizer",
     "DownloadLinkInstall": "https://github.com/Pistachio-dev/FFXIV_Autogardener/releases/download/0.3.8.0_release/Autogardener.zip",
